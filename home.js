@@ -1,5 +1,5 @@
-import demonList from "./json/list.json" with { type: "json" };
-import info from "./json/info.json" with { type: "json" };
+import demonList from "list.json" with { type: "json" };
+import info from "info.json" with { type: "json" };
 
 let listBtn = $("#list-btn");
 let packBtn = $("#pack-btn");
